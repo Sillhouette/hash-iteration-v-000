@@ -12,4 +12,5 @@ def select_winner(passengers)
     if key == "suite_a" && value[0] == "A"
       return "#{value} is the winner!";
     end
+  end
 end
